@@ -1,6 +1,7 @@
-# yuksalish_1
-
 ## Mobile shop app
+
+<img src="https://user-images.githubusercontent.com/79628694/212861384-3dfd98ae-2bcb-4090-b394-7a9cbf74fa61.png" width="1000" height="400" >      
+
 
 
 ### Bosh sahifani rasmlari
